@@ -2415,3 +2415,7 @@ img.mfp-img {
 	opacity: .2;
 	z-index: 100;
 }
+.portfolio-item .lb-link img {
+	height: 170px;
+	object-fit: cover;
+}
